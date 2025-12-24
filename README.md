@@ -1,4 +1,4 @@
-# 🧠 Moonrider Backend - Identity Reconciliation API
+# 🧠Backend - Identity Reconciliation API
 
 A high-performance Identity Reconciliation API for managing and unifying user contact records by intelligently resolving identities using email and phone number.
 
